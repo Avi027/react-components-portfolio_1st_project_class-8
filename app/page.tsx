@@ -73,7 +73,7 @@ export default function Home() {
           </div>
 
         </div>
-        <div className="flex flex-col justify-between ml-40 p-2 gap-5
+        <div className="flex flex-col justify-between mr-100 p-2 gap-5
         ">
           <div className="text-6xl">What do i Help?</div>
           <div className="bg-black text-amber-300 shadow-2xs">I will help you with finging a solution and solve <br /> 
@@ -99,13 +99,7 @@ export default function Home() {
 
        </div>
 
-        <div className="flex flex-row justify-between bg-contain-last item-baseline-last object-contain">
-          <div className="flex flex-col">
-            <div className="bg-[url('/sad.png')] bg-contain bg-top-right object-contain bg-no-repeat p-[300px] pt-50 ">
-
-            </div>
-          </div>
-        </div>
+        
 
       </div>
 
